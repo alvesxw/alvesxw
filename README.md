@@ -7,7 +7,7 @@ Programador freelancer focado em **automação, integração de dados e scripts 
 - Automação de processos (planilhas → sistemas, entrada de dados, scraping)
 - Integração com APIs (Google Sheets, entre outras)
 - Scripts sob medida pra resolver problemas específicos de negócio
-- Configuração de DNS/e-mail (Hostinger, Registro.br)
+- Configuração de DNS/e-mail
 
 ## Stack
 
