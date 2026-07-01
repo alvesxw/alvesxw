@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Arthur
 
-<!--
-**alvesxw/alvesxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programador freelancer focado em **automação, integração de dados e scripts sob medida**. Trabalho com Python no dia a dia e estou expandindo pra Java e SQL.
 
-Here are some ideas to get you started:
+## O que eu faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automação de processos (planilhas → sistemas, entrada de dados, scraping)
+- Integração com APIs (Google Sheets, entre outras)
+- Scripts sob medida pra resolver problemas específicos de negócio
+- Configuração de DNS/e-mail (Hostinger, Registro.br)
+
+## Stack
+
+**Linguagens:** Python, Java (em progresso)
+**Em aprendizado:** SQL, Maven, Spring Boot
+**Ferramentas:** Git/GitHub, Google Sheets API
+
+## Projetos em destaque
+
+- [`automacao-google-sheets`](https://github.com/alvesxw/automacao-google-sheets) — script de automação que lê dados do Google Sheets e realiza entrada automática de dados, com tratamento de erros e normalização de colunas.
+- [`sistema-bancario-java`](https://github.com/alvesxw/sistema-bancario-java) — sistema bancário multi-conta em Java aplicando POO (encapsulamento, herança, polimorfismo, tratamento de exceções).
+- [`zoologico-virtual-java`](https://github.com/alvesxw/zoologico-virtual-java) — simulação de zoológico virtual em Java, projeto de fixação de conceitos de POO.
+
+## Contato
+
+- Workana: [seu link do perfil]
+- E-mail: [seu e-mail de contato]
+
+---
+*Disponível para projetos freelance de automação e desenvolvimento sob medida.*
