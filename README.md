@@ -17,7 +17,6 @@ Programador freelancer focado em **automação, integração de dados e scripts 
 
 ## Projetos em destaque
 
-- [`automacao-google-sheets`](https://github.com/alvesxw/automacao-google-sheets) — script de automação que lê dados do Google Sheets e realiza entrada automática de dados, com tratamento de erros e normalização de colunas.
 - [`sistema-bancario-java`](https://github.com/alvesxw/sistema-bancario-java) — sistema bancário multi-conta em Java aplicando POO (encapsulamento, herança, polimorfismo, tratamento de exceções).
 - [`zoologico-virtual-java`](https://github.com/alvesxw/zoologico-virtual-java) — simulação de zoológico virtual em Java, projeto de fixação de conceitos de POO.
 
