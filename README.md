@@ -22,8 +22,7 @@ Programador freelancer focado em **automação, integração de dados e scripts 
 
 ## Contato
 
-- Workana: [seu link do perfil]
-- E-mail: [seu e-mail de contato]
+- E-mail: arthuracos@gmail.com
 
 ---
 *Disponível para projetos freelance de automação e desenvolvimento sob medida.*
